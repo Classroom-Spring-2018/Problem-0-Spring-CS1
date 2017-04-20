@@ -1,7 +1,7 @@
 # Spring-CS1 Problem 0
 
 ## Hand-In Procedure 
-1. Save Save your code in ps0.py. Do not ignore this step or save your file(s) with different names. 
+1. Save your code in ps0.py. Do not ignore this step or save your file(s) with different names. 
 2. At the start of each file, in a comment, write down the number of hours (roughly) you spent on the problems in that part, and the names of the people you collaborated with. 
 3. Copy the URL from your work on GitHub and paste it into our LMS under Problem O.
 
